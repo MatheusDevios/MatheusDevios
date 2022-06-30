@@ -1,5 +1,4 @@
-# Hi there, I'm Matheus - a Junior Web Dev 👋 
-
+# Hi there, I'm Matheus - a Junior Web Dev 👋
 
 ## I'm a Husband, Developer, and Student!!
 
@@ -8,12 +7,12 @@
 - 🥅 2022 Goals: Learn more about Full Stack Development
 - ⚡ Fun fact: I love playing guitar / and hanging out with friends
 
-
 ### Connect with me:
 
 <!-- [![website](./img/globe-light.svg)](https://matheusdiniz.netlify.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://matheusdiniz.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp; -->
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/matheus-diniz-857070146/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/matheus-diniz-857070146/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -36,7 +35,6 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][githubrepo]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][githubrepo]
 
-
 <br />
 <br />
 
@@ -44,11 +42,13 @@
 
   <summary>:zap: GitHub Stats</summary>
 
+  | <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Matheus Diniz's github stats" /></a> | <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDevios&layout=compact" /></a> |
+| ------------- | ------------- |
+<!-- <div>
   <img align="left" alt="Matheus Diniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
   <img align="right" alt="Matheus Diniz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDevios&layout=compact" />
-
-
+</div> -->
 
 [website]: https://matheusdiniz.netlify.app/
 [instagram]: https://www.instagram.com/theusdiniz_/
