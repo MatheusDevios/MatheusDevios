@@ -44,7 +44,10 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Matheus Diniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+  <img align="right" alt="Matheus Diniz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDevios&layout=compact" />
+
 
 
 [website]: https://matheusdiniz.netlify.app/
