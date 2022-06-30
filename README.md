@@ -11,6 +11,9 @@
 
 ### Connect with me:
 
+<!-- [![website](./img/globe-light.svg)](https://matheusdiniz.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://matheusdiniz.netlify.app/#gh-dark-mode-only)
+&nbsp;&nbsp; -->
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/matheus-diniz-857070146/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/matheus-diniz-857070146/#gh-dark-mode-only)
 &nbsp;&nbsp;
