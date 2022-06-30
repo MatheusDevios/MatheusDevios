@@ -3,7 +3,6 @@
 
 ## I'm a Husband, Developer, and Student!!
 
-
 - 🌱 I’m always learning new features 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Full Stack Development
