@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Developer, and Student!!
 
-- 🌱 I’m always learning new features 🤣
+- 🌱 I’m always learning new features 💻
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about Full Stack Development
 - ⚡ Fun fact: I love playing guitar / and hanging out with friends
