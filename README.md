@@ -9,10 +9,9 @@
 
 ### Connect with me:
 
-<!-- [![website](./img/globe-light.svg)](https://matheusdiniz.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://matheusdiniz.netlify.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://matheusdiniz.netlify.app/#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/matheus-diniz-857070146/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/matheus-diniz-857070146/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -42,8 +41,9 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  | <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Matheus Diniz's github stats" /></a> | <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDevios&layout=compact" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Matheus Diniz's github stats" /></a> | <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDevios&layout=compact" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 <!-- <div>
   <img align="left" alt="Matheus Diniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
