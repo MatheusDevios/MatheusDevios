@@ -1,6 +1,6 @@
 # Hi there, I'm Matheus - a Junior Web Dev 👋
 
-## I'm a Husband, Developer, and Student!!
+## I'm a Developer, and Student!!
 
 - 🌱 I’m always learning new features 💻
 - 👯 I’m looking to collaborate with other developers
