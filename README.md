@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Student!!
 
-- 🌱 I’m always learning new features, currently pesuing a Higher Diploma in Computing Science, graduating in Feb/2023 💻
+- 🌱 I’m always learning new features, currently persuing a Higher Diploma in Computing Science, graduating in Feb/2023 💻
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about Full Stack Development
 - ⚡ Fun fact: I love playing guitar / and hanging out with friends
