@@ -1,6 +1,6 @@
-# Hi there, I'm Matheus - a Junior Web Dev 👋
+# Hi there, I'm Matheus - a Junior Software Engineer 👋
 
-## I'm a Developer, and Student!!
+## I'm a Software Engineer, and Student!!
 
 - 🌱 I’m always learning new features, currently persuing a Higher Diploma in Computing Science, graduating in Feb/2023 💻
 - 👯 I’m looking to collaborate with other developers
