@@ -1,6 +1,6 @@
 # Hi there, I'm Matheus - a Junior Software Engineer 👋
 
-## I'm a Software Engineer, and Student!!
+## I'm a Software Engineer!!
 
 - 🌱 I’m always learning new features 💻
 - 👯 I’m looking to collaborate with other developers
