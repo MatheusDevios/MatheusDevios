@@ -4,7 +4,7 @@
 
 - 🌱 I’m always learning new features 💻
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about Full Stack Development
+- 🥅 2023 Goals: Learn everyday.
 - ⚡ Fun fact: I love playing guitar / and hanging out with friends
 
 ### Connect with me:
