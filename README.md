@@ -43,8 +43,10 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-| <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Matheus Diniz's github stats" /></a> | <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDevios&layout=compact" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  <!-- | <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Matheus Diniz's github stats" /></a>  -->
+
+| <a href="https://github.com/MatheusDevios"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDevios&layout=compact" alt="Most Used Languages" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- <div>
   <img align="left" alt="Matheus Diniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusDevios&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
